@@ -1,6 +1,6 @@
 import {Routes ,Route} from 'react-router-dom'
 import HomePage from './pages/HomePage.jsx'
-import CheckOut from './pages/CheckOut.jsx'
+import CheckOut from './pages/checkout/CheckOut.jsx'
 import Orders from './pages/Orders.jsx'
 import Tracking from './pages/Tracking.jsx'
 import './App.css'
